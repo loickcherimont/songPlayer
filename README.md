@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="300" src="assets/img/screenshot-songplayer.png" alt="Screenshot to introduce project">
+  <img width="500" height="500" src="assets/img/screenshot-songplayer.png" alt="Screenshot to introduce project">
 </p>
 
 # :headphones: Song Player
